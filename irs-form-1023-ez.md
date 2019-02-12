@@ -3,15 +3,17 @@
 
 ## Part I. Identification of Applicant
 
-### 1a Full Name of Organization
+### 1
 
-### 1b Address (number, street, and room/suite). If a P.O. box, see instructions.
+#### a Full Name of Organization
 
-### c City
+#### b Address (number, street, and room/suite). If a P.O. box, see instructions.
 
-### d State
+#### c City
 
-### e Zip code + 4
+#### d State
+
+#### e Zip code + 4
 
 ### 2 Employer Identification Number
 
